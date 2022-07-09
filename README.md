@@ -17,7 +17,8 @@ I made the following changes to the client's webpage:
 ---
 ## Image and Link to Refactored Code
 ---
-! [Image of New Webpage Layout] (image.png)
+![image](https://user-images.githubusercontent.com/98196969/178120266-d1e54319-9734-442c-a653-a549180be1f6.png)
+
 
 [redesigned webpage] (https://zyzix564.github.io/LatestHW1/)
 
