@@ -19,7 +19,7 @@ I made the following changes to the client's webpage:
 ---
 ! [Image of New Webpage Layout] (image.png)
 
-[redesigned webpage] (./develop/index.html)
+[redesigned webpage] (https://zyzix564.github.io/LatestHW1/)
 
 
 ---
