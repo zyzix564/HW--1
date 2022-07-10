@@ -15,7 +15,7 @@ I made the following changes to the client's webpage:
 3. I added ``alt`` attributes to images and icons in order to deliver information about said images and icons to those with impaired eyesight.
 4. I added a descriptive title to the webpage whereas before there was none.
 ---
-## Image and Link to Refactored Code
+## Image and Link to Webpage
 ---
 ![image](https://user-images.githubusercontent.com/98196969/178120266-d1e54319-9734-442c-a653-a549180be1f6.png)
 
